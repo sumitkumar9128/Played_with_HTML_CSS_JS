@@ -36,6 +36,19 @@
 ![Screenshot 2024-04-22 161701](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/170bf84b-c1e7-4e3c-85aa-ba2911d36b68)
 
 
+## Login_2
+
+![Screenshot 2024-04-22 161540](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/52e30cbb-8d62-468e-931d-117fcc2bca2b)
+
+
+
+## Navbar_Style
+
+![Screenshot 2024-04-01 225014](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/5814c7ff-b700-4f32-9cc7-2bdd1c0545fc)
+
+
+
+
 
 
 
