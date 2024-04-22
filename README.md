@@ -48,6 +48,22 @@
 
 
 
+## Parallax_Scrolling
+
+![Screenshot 2024-04-22 162558](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/bfefa3cc-f84a-488b-99f7-f5c30c4d8f35)
+
+
+![Screenshot 2024-04-22 162618](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/3fda9191-1df5-45d2-adfd-5f212614b9fd)
+
+
+
+
+## Responsive_Navbar
+
+
+![Screenshot 2024-04-04 160426](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/ef2446c7-ef0e-4323-85d5-c96fd3bea42c)
+
+![Screenshot 2024-04-04 160408](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/0797a476-0e1b-48ac-92ff-f5baf95dc7bd)
 
 
 
