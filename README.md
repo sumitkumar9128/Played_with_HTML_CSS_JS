@@ -23,3 +23,24 @@
 
 ![Screenshot 2024-04-22 160352](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/8138a070-c34d-43aa-b4bc-a5e79d31b84b)
 
+
+
+
+## Image_Slider
+
+
+
+![Screenshot 2024-04-22 161317](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/93c4ead6-252d-4d18-b904-4d214fbabc13)
+
+
+![Screenshot 2024-04-22 161701](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/170bf84b-c1e7-4e3c-85aa-ba2911d36b68)
+
+
+
+
+
+
+
+
+
+
