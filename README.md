@@ -36,6 +36,27 @@
 ![Screenshot 2024-04-22 161701](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/170bf84b-c1e7-4e3c-85aa-ba2911d36b68)
 
 
+
+## JS_Practice_2
+
+
+![Screenshot 2024-04-28 130054](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/d81a0671-8837-45a9-b343-35d94bb55485)
+
+
+![Screenshot 2024-04-28 130107](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/e33db993-aec1-42af-a9de-b774464f828d)
+
+
+
+## JS_Practice_3
+
+
+
+https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/f221b363-eb42-45d9-b33a-6b1aab8d6ce3
+
+
+
+
+
 ## Login_2
 
 ![Screenshot 2024-04-22 161540](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/52e30cbb-8d62-468e-931d-117fcc2bca2b)
