@@ -39,6 +39,8 @@
 
 ## JS_Practice_2
 
+Add/Remove Friend features
+
 
 ![Screenshot 2024-04-28 130054](https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/d81a0671-8837-45a9-b343-35d94bb55485)
 
@@ -49,7 +51,7 @@
 
 ## JS_Practice_3
 
-
+Instgram like feature
 
 https://github.com/sumitkumar9128/Played_with_HTML_CSS_JS/assets/156917684/f221b363-eb42-45d9-b33a-6b1aab8d6ce3
 
